@@ -1,1 +1,0 @@
-# mnistcnntensorflow-3
